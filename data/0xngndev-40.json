@@ -1,0 +1,9 @@
+{
+  "contest": "Sublime contest",
+  "handle": "0xngndev",
+  "address": "0x63D43942A69b961E398A0F7C260bC3718d320eE2",
+  "risk": "G",
+  "title": "Gas: Inlining logic that's used only once in the contract",
+  "issueId": 40,
+  "issueUrl": "https://github.com/code-423n4/2021-12-sublime-findings/issues/40"
+}
