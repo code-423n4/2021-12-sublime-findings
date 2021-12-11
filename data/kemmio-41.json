@@ -1,0 +1,9 @@
+{
+  "contest": "Sublime contest",
+  "handle": "kemmio",
+  "address": "0xb1E261C37Fd29c27de80cc0d1fb9Ca2f151D0C1d",
+  "risk": "3",
+  "title": "Possibility to drain SavingsAccount contract assets",
+  "issueId": 41,
+  "issueUrl": "https://github.com/code-423n4/2021-12-sublime-findings/issues/41"
+}
