@@ -1,0 +1,9 @@
+{
+  "contest": "Sublime contest",
+  "handle": "cyberboy",
+  "address": "0xdc3442769DB7D34e6468Ded0b9B2a1baa4630C99",
+  "risk": "G",
+  "title": "Function should be declared as external to save gas [Controller.sol, Strategy.sol, yVault.sol, FluxAggregator.sol]",
+  "issueId": 62,
+  "issueUrl": "https://github.com/code-423n4/2021-12-sublime-findings/issues/62"
+}
