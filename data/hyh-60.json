@@ -1,0 +1,9 @@
+{
+  "contest": "Sublime contest",
+  "handle": "hyh",
+  "address": "0x8efE50a4b8c8B64FDC93a5b1712Fd735d8223cD5",
+  "risk": "2",
+  "title": "PoolFactory.updateRepaymentImpl will break the system in production as there is no way to copy Pool state info held in Repayments",
+  "issueId": 60,
+  "issueUrl": "https://github.com/code-423n4/2021-12-sublime-findings/issues/60"
+}
