@@ -1,0 +1,9 @@
+{
+  "contest": "Sublime contest",
+  "handle": "0xngndev",
+  "address": "0x63D43942A69b961E398A0F7C260bC3718d320eE2",
+  "risk": "G",
+  "title": "Reduce length of require error messages to save in deployment costs",
+  "issueId": 47,
+  "issueUrl": "https://github.com/code-423n4/2021-12-sublime-findings/issues/47"
+}
