@@ -1,0 +1,9 @@
+{
+  "contest": "Sublime contest",
+  "handle": "gpersoon",
+  "address": "gpersoon.eth",
+  "risk": "1",
+  "title": "transferTokens should use _from instead of msg.sender",
+  "issueId": 57,
+  "issueUrl": "https://github.com/code-423n4/2021-12-sublime-findings/issues/57"
+}
