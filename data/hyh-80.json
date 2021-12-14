@@ -1,0 +1,9 @@
+{
+  "contest": "Sublime contest",
+  "handle": "hyh",
+  "address": "0x8efE50a4b8c8B64FDC93a5b1712Fd735d8223cD5",
+  "risk": "3",
+  "title": "SavingsAccount withdrawAll and switchStrategy can freeze user funds by ignoring possible strategy liquidity issues",
+  "issueId": 80,
+  "issueUrl": "https://github.com/code-423n4/2021-12-sublime-findings/issues/80"
+}
