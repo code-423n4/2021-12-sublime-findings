@@ -1,0 +1,9 @@
+{
+  "contest": "Sublime contest",
+  "handle": "WatchPug",
+  "address": "0x192bDD30D272AabC2B1c3c719c518F0f2d10cc60",
+  "risk": "3",
+  "title": "Wrong implementation of `AaveYield.sol` causing users to lose yields",
+  "issueId": 123,
+  "issueUrl": "https://github.com/code-423n4/2021-12-sublime-findings/issues/123"
+}
