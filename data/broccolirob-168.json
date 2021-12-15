@@ -1,0 +1,9 @@
+{
+  "contest": "Sublime contest",
+  "handle": "broccolirob",
+  "address": "0x5233aF283E7C359a1011Dc0ff480298E90c8CFd6",
+  "risk": "3",
+  "title": "Ether can be locked in the `PoolFactory` contract without a way to retrieve it",
+  "issueId": 168,
+  "issueUrl": "https://github.com/code-423n4/2021-12-sublime-findings/issues/168"
+}
