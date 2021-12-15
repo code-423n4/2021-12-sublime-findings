@@ -1,0 +1,9 @@
+{
+  "contest": "Sublime contest",
+  "handle": "0x0x0x",
+  "address": "0x3Ca8C469ff8156eeBB1518FA631bf8ebc5EE0688",
+  "risk": "3",
+  "title": "In `CreditLine#liquidate`, lender doesn't receive `_borrowTokens`, when it is ETH",
+  "issueId": 156,
+  "issueUrl": "https://github.com/code-423n4/2021-12-sublime-findings/issues/156"
+}
