@@ -1,0 +1,9 @@
+{
+  "contest": "Sublime contest",
+  "handle": "pedroais",
+  "address": "0x7b13eB3F49525DcF09c01DbBbd34Af8a4C8C83B5",
+  "risk": "2",
+  "title": "Collateral can be deposited in a finished pool",
+  "issueId": 169,
+  "issueUrl": "https://github.com/code-423n4/2021-12-sublime-findings/issues/169"
+}
